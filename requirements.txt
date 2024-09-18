@@ -1,0 +1,7 @@
+SimplerLLM
+networkx
+python-dotenv
+pyvis
+Requests
+streamlit
+streamlit_agraph
